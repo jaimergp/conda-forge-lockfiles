@@ -1,0 +1,11 @@
+name: conda-forge-ci-setup
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - conda
+  - conda-build
+  - conda-forge-ci-setup=3
+  - pip
+  - python=3.7
+
