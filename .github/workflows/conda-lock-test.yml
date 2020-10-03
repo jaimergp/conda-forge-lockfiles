@@ -28,3 +28,6 @@ jobs:
         run: |
           pushd environments/conda-forge-build
           ../../scripts/update_locks.sh
+      - name: Check the delta
+        run: |
+          git status
