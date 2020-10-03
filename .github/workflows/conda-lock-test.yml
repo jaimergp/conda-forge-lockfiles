@@ -1,6 +1,6 @@
 # Runs conda-lock against environment.yml for reproducible environments
 # Runs on any opened PR
-name: conda-lock
+name: conda-lock-test
 
 on:
   pull_request:
