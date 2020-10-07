@@ -24,7 +24,7 @@ https://conda.anaconda.org/conda-forge/osx-64/lz4-c-1.9.2-hb1e8313_3.tar.bz2#773
 https://conda.anaconda.org/conda-forge/osx-64/ncurses-6.2-hb1e8313_1.tar.bz2#711f66ee1fd8585c28a47910ddbeaa4a
 https://conda.anaconda.org/conda-forge/osx-64/openssl-1.1.1h-haf1e3a3_0.tar.bz2#6be73e185e6a92a29571dd9a2dfb5251
 https://conda.anaconda.org/conda-forge/osx-64/pcre-8.44-h4a8c4bd_0.tar.bz2#28b0557e6ef0eb62f3162ddf678ea493
-https://conda.anaconda.org/conda-forge/osx-64/tk-8.6.10-hb0a8c7a_0.tar.bz2#f93186025751849c38dcc6c624ef424e
+https://conda.anaconda.org/conda-forge/osx-64/tk-8.6.10-hb0a8c7a_1.tar.bz2#f7477bf81dcfc7b4dddc7b3790a99a0c
 https://conda.anaconda.org/conda-forge/osx-64/gettext-0.19.8.1-h46ab8bc_1002.tar.bz2#c7517739152f7ba685351817f6ed9da8
 https://conda.anaconda.org/conda-forge/osx-64/libedit-3.1.20191231-h0678c8f_2.tar.bz2#6016a8a1d0e63cac3de2c352cd40208b
 https://conda.anaconda.org/conda-forge/osx-64/libnghttp2-1.41.0-h7580e61_2.tar.bz2#1731a2e73e2d68d455a1b8b8de0265dc
@@ -34,7 +34,7 @@ https://conda.anaconda.org/conda-forge/osx-64/readline-8.0-h0678c8f_2.tar.bz2#8f
 https://conda.anaconda.org/conda-forge/osx-64/zstd-1.4.5-h289c70a_2.tar.bz2#53cfeb429a4e0157b32ca4b52f488965
 https://conda.anaconda.org/conda-forge/osx-64/krb5-1.17.1-h75d18d8_3.tar.bz2#a2e242f395cb1226eaf4cc8eaacf5526
 https://conda.anaconda.org/conda-forge/osx-64/libarchive-3.4.3-hf12134e_0.tar.bz2#afa2aed9522f208058934a4ccaa8c4d5
-https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.33.0-h960bd1c_0.tar.bz2#2258e92373f9991a586fc416ae459f17
+https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.33.0-h960bd1c_1.tar.bz2#d86a1d10a189d4c000a61971110f4f55
 https://conda.anaconda.org/conda-forge/osx-64/libcurl-7.71.1-h9bf37e3_8.tar.bz2#1a136204085b4c620fe2ed74fb1112bf
 https://conda.anaconda.org/conda-forge/osx-64/python-3.7.8-hc9dea61_1_cpython.tar.bz2#46fe9ea04f7e863da2588ad41d2f65ad
 https://conda.anaconda.org/conda-forge/noarch/attrs-20.2.0-pyh9f0ad1d_0.tar.bz2#72fe75fed07fe89d6ef02034bf1e94a5
@@ -50,7 +50,7 @@ https://conda.anaconda.org/conda-forge/osx-64/python_abi-3.7-1_cp37m.tar.bz2#d2c
 https://conda.anaconda.org/conda-forge/noarch/pytz-2020.1-pyh9f0ad1d_0.tar.bz2#e52abc1f0fd70e05001c1ceb2696f625
 https://conda.anaconda.org/conda-forge/noarch/six-1.15.0-pyh9f0ad1d_0.tar.bz2#1eec421f0f1f39e579e44e4a5ce646a2
 https://conda.anaconda.org/conda-forge/noarch/soupsieve-2.0.1-py_1.tar.bz2#aa1db70848c19bace567ba39a157f508
-https://conda.anaconda.org/conda-forge/noarch/tqdm-4.50.0-pyh9f0ad1d_0.tar.bz2#74bb4d4b3c6447b448376719075d98de
+https://conda.anaconda.org/conda-forge/noarch/tqdm-4.50.1-pyh9f0ad1d_0.tar.bz2#1e40d8d1bab1a177c6ad5fcb7bad94e1
 https://conda.anaconda.org/conda-forge/noarch/wheel-0.35.1-pyh9f0ad1d_0.tar.bz2#126827869be32f21872a2b30ebe2b038
 https://conda.anaconda.org/conda-forge/noarch/zipp-3.3.0-py_0.tar.bz2#82671ac8792f7ce5fdc601f9692f95f1
 https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.9.3-pyhb0f4dca_0.tar.bz2#d243a293d7303ab6195d96ce8c16b1cb
