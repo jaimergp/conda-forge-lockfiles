@@ -1,6 +1,8 @@
 # platform: linux-ppc64le
 # env_hash: aa1cd7705bb99c355986a02116edf2d603a4f3fdbf39d90ec23baea4d31adabf
+
 @EXPLICIT
+
 https://conda.anaconda.org/conda-forge/linux-ppc64le/_libgcc_mutex-0.1-conda_forge.tar.bz2#e96f48755dc7c9f86c4aecf4cac40477
 https://conda.anaconda.org/conda-forge/linux-ppc64le/ca-certificates-2020.6.20-hecda079_0.tar.bz2#42c71b5438a2b898f7848d8f5c5447c6
 https://conda.anaconda.org/conda-forge/noarch/conda-env-2.6.0-1.tar.bz2#2e87f617581c88d249c72bfd350936eb
