@@ -69,7 +69,6 @@ https://conda.anaconda.org/conda-forge/noarch/soupsieve-2.0.1-py_1.tar.bz2#aa1db
 https://conda.anaconda.org/conda-forge/noarch/tqdm-4.50.1-pyh9f0ad1d_0.tar.bz2#1e40d8d1bab1a177c6ad5fcb7bad94e1
 https://conda.anaconda.org/conda-forge/noarch/wheel-0.35.1-pyh9f0ad1d_0.tar.bz2#126827869be32f21872a2b30ebe2b038
 https://conda.anaconda.org/conda-forge/win-64/win_inet_pton-1.1.0-py37_0.tar.bz2#2c860a91e4df7c55a4f63ea5dad1bcbd
-https://conda.anaconda.org/conda-forge/win-64/wincertstore-0.2-py37_1003.tar.bz2#c59b6ebdefb65b5aef30f7943b5375e0
 https://conda.anaconda.org/conda-forge/noarch/zipp-3.3.0-py_0.tar.bz2#82671ac8792f7ce5fdc601f9692f95f1
 https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.9.3-pyhb0f4dca_0.tar.bz2#d243a293d7303ab6195d96ce8c16b1cb
 https://conda.anaconda.org/conda-forge/win-64/certifi-2020.6.20-py37hc8dfbb8_0.tar.bz2#5c48206260d43b304ac71ba618184ec0
@@ -96,6 +95,7 @@ https://conda.anaconda.org/conda-forge/win-64/pyyaml-5.3.1-py37h4ab8f01_0.tar.bz
 https://conda.anaconda.org/conda-forge/win-64/ripgrep-12.1.1-h301d43c_0.tar.bz2#e69260ab1bb9d35d089f63354c4fb123
 https://conda.anaconda.org/conda-forge/win-64/ruamel_yaml-0.15.80-py37h4ab8f01_1002.tar.bz2#25246df45e8c9911dfd2402caa74bd5b
 https://conda.anaconda.org/conda-forge/noarch/traitlets-5.0.4-py_1.tar.bz2#048e4f82f972565e99ac45a374120c36
+https://conda.anaconda.org/conda-forge/win-64/wincertstore-0.2-py37hc8dfbb8_1004.tar.bz2#83ef28c0520b1fc2d0afdb0f4570c946
 https://conda.anaconda.org/conda-forge/win-64/brotlipy-0.7.0-py37h4ab8f01_1000.tar.bz2#741bb8ccb3bba55de8f7cbebca90e662
 https://conda.anaconda.org/conda-forge/win-64/cryptography-3.1.1-py37h26f1ce3_0.tar.bz2#43167a630635dfdb00d5b6a9962a6a37
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-2.0.0-0.tar.bz2#6ba1cc819e1a8268a1f5e44b95cae1c7
