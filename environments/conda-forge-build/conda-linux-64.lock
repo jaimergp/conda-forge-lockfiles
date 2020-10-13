@@ -18,7 +18,7 @@ https://conda.anaconda.org/conda-forge/linux-64/icu-67.1-he1b5a44_0.tar.bz2#7ced
 https://conda.anaconda.org/conda-forge/linux-64/libev-4.33-h516909a_1.tar.bz2#6f8720dff19e17ce5d48cfe7f3d2f0a3
 https://conda.anaconda.org/conda-forge/linux-64/libffi-3.2.1-he1b5a44_1007.tar.bz2#11389072d7d6036fd811c3d9460475cd
 https://conda.anaconda.org/conda-forge/linux-64/libiconv-1.16-h516909a_0.tar.bz2#5c0f338a513a2943c659ae619fca9211
-https://conda.anaconda.org/conda-forge/linux-64/liblief-0.10.1-he1b5a44_1.tar.bz2#01a0a4fb4dc909566563651895d372b0
+https://conda.anaconda.org/conda-forge/linux-64/liblief-0.10.1-he1b5a44_2.tar.bz2#6dcf6265e59105e5e80185f1a95d33c7
 https://conda.anaconda.org/conda-forge/linux-64/lz4-c-1.9.2-he1b5a44_3.tar.bz2#b2e54aad8640e7a877d2280d3ebfe85b
 https://conda.anaconda.org/conda-forge/linux-64/lzo-2.10-h516909a_1000.tar.bz2#bb14fcb13341b81d5eb386423b9d2bac
 https://conda.anaconda.org/conda-forge/linux-64/ncurses-6.2-he1b5a44_2.tar.bz2#48af29b07d7336037d00cdea3e11775d
@@ -70,7 +70,7 @@ https://conda.anaconda.org/conda-forge/linux-64/git-2.28.0-pl526h5e3e691_1.tar.b
 https://conda.anaconda.org/conda-forge/noarch/importlib-metadata-2.0.0-py_1.tar.bz2#9061524478034b761f355a42bd9a7e3d
 https://conda.anaconda.org/conda-forge/linux-64/markupsafe-1.1.1-py37hb5d75c8_2.tar.bz2#31e6e17a00c0a624765a4ef79344359c
 https://conda.anaconda.org/conda-forge/linux-64/psutil-5.7.2-py37hb5d75c8_1.tar.bz2#fc5246db8ddcd6390034dd85f7b3daa7
-https://conda.anaconda.org/conda-forge/linux-64/py-lief-0.10.1-py37h3340039_1.tar.bz2#2960a21831944b69e0366dcb6c66d73a
+https://conda.anaconda.org/conda-forge/linux-64/py-lief-0.10.1-py37hb892b2f_2.tar.bz2#4f7920fb33c65860b3bc2f9bbd019714
 https://conda.anaconda.org/conda-forge/linux-64/pycosat-0.6.3-py37hb5d75c8_1005.tar.bz2#d833a5e177494e5a67753f342a959591
 https://conda.anaconda.org/conda-forge/linux-64/pyrsistent-0.17.3-py37h8f50634_1.tar.bz2#d4589f9c03a6f83a0bde325bf2bfc590
 https://conda.anaconda.org/conda-forge/linux-64/pysocks-1.7.1-py37he5f6b98_2.tar.bz2#a16ee1f98f2ab617eb31c835eaab8b81
@@ -79,7 +79,7 @@ https://conda.anaconda.org/conda-forge/linux-64/python-libarchive-c-2.9-py37he5f
 https://conda.anaconda.org/conda-forge/linux-64/pyyaml-5.3.1-py37hb5d75c8_1.tar.bz2#5bf564affe9307fc08373b5a84d31c78
 https://conda.anaconda.org/conda-forge/linux-64/ruamel_yaml-0.15.80-py37hb5d75c8_1003.tar.bz2#53fdf5fc7a85e5f46a89e54253c4730a
 https://conda.anaconda.org/conda-forge/noarch/traitlets-5.0.4-py_1.tar.bz2#048e4f82f972565e99ac45a374120c36
-https://conda.anaconda.org/conda-forge/linux-64/brotlipy-0.7.0-py37h8f50634_1000.tar.bz2#32f5c3392501d6f5f20a24be76e03702
+https://conda.anaconda.org/conda-forge/linux-64/brotlipy-0.7.0-py37hb5d75c8_1001.tar.bz2#1e60063ddc9de28cb48bddb48bdc1395
 https://conda.anaconda.org/conda-forge/linux-64/cryptography-3.1.1-py37hb09aad4_0.tar.bz2#8e25fdef38825b89d1550a0aa05a1116
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-2.0.0-1.tar.bz2#1e40de9b76f9eb789d302de58bfe7674
 https://conda.anaconda.org/conda-forge/linux-64/jupyter_core-4.6.3-py37hc8dfbb8_2.tar.bz2#6f466ba13cf6444d8f55eed4070e0037

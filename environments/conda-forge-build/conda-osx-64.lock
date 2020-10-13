@@ -23,7 +23,7 @@ https://conda.anaconda.org/conda-forge/osx-64/icu-67.1-hb1e8313_0.tar.bz2#7ee9c0
 https://conda.anaconda.org/conda-forge/osx-64/jq-1.6-h1de35cc_1000.tar.bz2#b1ac55db5868162fc28da921832bb6d2
 https://conda.anaconda.org/conda-forge/osx-64/libedit-3.1.20191231-h0678c8f_2.tar.bz2#6016a8a1d0e63cac3de2c352cd40208b
 https://conda.anaconda.org/conda-forge/osx-64/libffi-3.2.1-hb1e8313_1007.tar.bz2#be8b6ba3b6710a89ab891bbed151659c
-https://conda.anaconda.org/conda-forge/osx-64/liblief-0.10.1-hb1e8313_1.tar.bz2#80fb7990a75473c9c95237e264078187
+https://conda.anaconda.org/conda-forge/osx-64/liblief-0.10.1-hb1e8313_2.tar.bz2#14c7fe39f28d8f23f8bd6312e9d47f6f
 https://conda.anaconda.org/conda-forge/osx-64/lz4-c-1.9.2-hb1e8313_3.tar.bz2#7737f6db9eb5e572d22b88b667d1f3f9
 https://conda.anaconda.org/conda-forge/osx-64/openssl-1.1.1h-haf1e3a3_0.tar.bz2#6be73e185e6a92a29571dd9a2dfb5251
 https://conda.anaconda.org/conda-forge/osx-64/pcre-8.44-h4a8c4bd_0.tar.bz2#28b0557e6ef0eb62f3162ddf678ea493
@@ -64,7 +64,7 @@ https://conda.anaconda.org/conda-forge/osx-64/git-2.28.0-pl526hde3ca24_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/importlib-metadata-2.0.0-py_1.tar.bz2#9061524478034b761f355a42bd9a7e3d
 https://conda.anaconda.org/conda-forge/osx-64/markupsafe-1.1.1-py37h395d20d_2.tar.bz2#c1a1e424c418d2a2c599951b3c33f77c
 https://conda.anaconda.org/conda-forge/osx-64/psutil-5.7.2-py37h395d20d_1.tar.bz2#bd19d660476ba38978e1fd04a97f8a7f
-https://conda.anaconda.org/conda-forge/osx-64/py-lief-0.10.1-py37hdadc0f0_1.tar.bz2#839de8147e5d465e5d909b2918181a2e
+https://conda.anaconda.org/conda-forge/osx-64/py-lief-0.10.1-py37h08f6e3d_2.tar.bz2#acea81f93a51511d87552b099f84cab4
 https://conda.anaconda.org/conda-forge/osx-64/pycosat-0.6.3-py37h395d20d_1005.tar.bz2#aa7d5596f3f459bc602ff8d174b4d283
 https://conda.anaconda.org/conda-forge/osx-64/pyrsistent-0.17.3-py37h60d8a13_1.tar.bz2#5defd0d8f84ac7e47243b12efef128d3
 https://conda.anaconda.org/conda-forge/osx-64/pysocks-1.7.1-py37h2987424_2.tar.bz2#23629f60986dc6f2125f32d26a0055e4
@@ -73,7 +73,7 @@ https://conda.anaconda.org/conda-forge/osx-64/python-libarchive-c-2.9-py37h29874
 https://conda.anaconda.org/conda-forge/osx-64/pyyaml-5.3.1-py37h395d20d_1.tar.bz2#25dbf137d014d016d692de2c2f027250
 https://conda.anaconda.org/conda-forge/osx-64/ruamel_yaml-0.15.80-py37h395d20d_1003.tar.bz2#842b3894a4ff9ea812c5ee89a07e38de
 https://conda.anaconda.org/conda-forge/noarch/traitlets-5.0.4-py_1.tar.bz2#048e4f82f972565e99ac45a374120c36
-https://conda.anaconda.org/conda-forge/osx-64/brotlipy-0.7.0-py37h60d8a13_1000.tar.bz2#ee7e46efaa42eebf0904ff8f8afb7739
+https://conda.anaconda.org/conda-forge/osx-64/brotlipy-0.7.0-py37h395d20d_1001.tar.bz2#1407a480e4f9e14dc56546dc9263bdd2
 https://conda.anaconda.org/conda-forge/osx-64/cryptography-3.1.1-py37h94e4008_0.tar.bz2#953a1835057cbc47f59ce8a480345b8b
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-2.0.0-1.tar.bz2#1e40de9b76f9eb789d302de58bfe7674
 https://conda.anaconda.org/conda-forge/osx-64/jupyter_core-4.6.3-py37hc8dfbb8_2.tar.bz2#6aa2b12579a6d5e44c78b906944b37f5
