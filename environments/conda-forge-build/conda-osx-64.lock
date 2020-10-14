@@ -17,7 +17,7 @@ https://conda.anaconda.org/conda-forge/osx-64/perl-5.26.2-haec8ef5_1006.tar.bz2#
 https://conda.anaconda.org/conda-forge/osx-64/ripgrep-12.1.1-h0b31af3_0.tar.bz2#a173bd1660cf8890ee8d2dfcdd88e7cb
 https://conda.anaconda.org/conda-forge/osx-64/xz-5.2.5-haf1e3a3_1.tar.bz2#41116deb499e9bc58048c297d6403ce6
 https://conda.anaconda.org/conda-forge/osx-64/yaml-0.2.5-haf1e3a3_0.tar.bz2#84c2fc186995c25a43e86ed708065572
-https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.11-h7795811_1009.tar.bz2#958b4b681fcae3094383cf69c26e8936
+https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.11-h7795811_1010.tar.bz2#7d39e47e16ed0107f37c7224d5b5be8b
 https://conda.anaconda.org/conda-forge/osx-64/expat-2.2.9-hb1e8313_2.tar.bz2#5674668524163888bba8f8c04223c323
 https://conda.anaconda.org/conda-forge/osx-64/icu-67.1-hb1e8313_0.tar.bz2#7ee9c0ceb94bf007b86e1564626e1ca0
 https://conda.anaconda.org/conda-forge/osx-64/jq-1.6-h1de35cc_1000.tar.bz2#b1ac55db5868162fc28da921832bb6d2
@@ -89,5 +89,5 @@ https://conda.anaconda.org/conda-forge/noarch/urllib3-1.25.10-py_0.tar.bz2#82cde
 https://conda.anaconda.org/conda-forge/noarch/requests-2.24.0-pyh9f0ad1d_0.tar.bz2#786ef230ca5cf2536e9dee910fdf4f9f
 https://conda.anaconda.org/conda-forge/noarch/anaconda-client-1.7.2-py_0.tar.bz2#1ada0ee7841ef357baf8cb8ae71fac9b
 https://conda.anaconda.org/conda-forge/osx-64/conda-4.8.5-py37h2987424_2.tar.bz2#e60cf9c3b92238b7e1d21398e02fe77f
-https://conda.anaconda.org/conda-forge/osx-64/conda-build-3.20.3-py37hc8dfbb8_0.tar.bz2#af70762bd49395d13d0e68c78e6e9c52
+https://conda.anaconda.org/conda-forge/osx-64/conda-build-3.20.4-py37h2987424_0.tar.bz2#bd99590892213a063fc5c4a7ed698510
 https://conda.anaconda.org/conda-forge/osx-64/conda-forge-ci-setup-3.4.0-py37hc8dfbb8_0.tar.bz2#ebd804e2e184c12e949e9a6531dcac0f
