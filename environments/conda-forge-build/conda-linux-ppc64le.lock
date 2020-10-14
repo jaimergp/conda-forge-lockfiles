@@ -30,7 +30,7 @@ https://conda.anaconda.org/conda-forge/linux-ppc64le/perl-5.26.2-h6eb9509_1006.t
 https://conda.anaconda.org/conda-forge/linux-ppc64le/ripgrep-12.1.1-h6eb9509_0.tar.bz2#b05b68f51dbd75916180bb009afa730b
 https://conda.anaconda.org/conda-forge/linux-ppc64le/xz-5.2.5-h6eb9509_1.tar.bz2#6d26cf2167b7d04c9db849cfdabe7431
 https://conda.anaconda.org/conda-forge/linux-ppc64le/yaml-0.2.5-h6eb9509_0.tar.bz2#98b522b3a7a11e53397961288f0b4277
-https://conda.anaconda.org/conda-forge/linux-ppc64le/zlib-1.2.11-h6eb9509_1009.tar.bz2#607e7ee91bc1af37ef3ef181cc870c1c
+https://conda.anaconda.org/conda-forge/linux-ppc64le/zlib-1.2.11-h6eb9509_1010.tar.bz2#f1163952db9976915c79cf1dd03ea6ef
 https://conda.anaconda.org/conda-forge/linux-ppc64le/gettext-0.19.8.1-h94c31b8_1002.tar.bz2#9aef9757055ef1e3a1b64e30cd68419b
 https://conda.anaconda.org/conda-forge/linux-ppc64le/jq-1.6-h14c3975_1000.tar.bz2#32a47ade643dce31cc2789298b808080
 https://conda.anaconda.org/conda-forge/linux-ppc64le/libedit-3.1.20191231-h41a240f_2.tar.bz2#5d316fcbed301564d0793e5833f67a68
@@ -95,5 +95,5 @@ https://conda.anaconda.org/conda-forge/noarch/urllib3-1.25.10-py_0.tar.bz2#82cde
 https://conda.anaconda.org/conda-forge/noarch/requests-2.24.0-pyh9f0ad1d_0.tar.bz2#786ef230ca5cf2536e9dee910fdf4f9f
 https://conda.anaconda.org/conda-forge/noarch/anaconda-client-1.7.2-py_0.tar.bz2#1ada0ee7841ef357baf8cb8ae71fac9b
 https://conda.anaconda.org/conda-forge/linux-ppc64le/conda-4.8.5-py37hc66f150_2.tar.bz2#0f80187dc25d4ee8d5cabb7a28a86828
-https://conda.anaconda.org/conda-forge/linux-ppc64le/conda-build-3.20.3-py37hc8dfbb8_0.tar.bz2#98cd64ba0f745bd4d9131f09c60b2623
+https://conda.anaconda.org/conda-forge/linux-ppc64le/conda-build-3.20.4-py37hc66f150_0.tar.bz2#262aa9d9270e3ad2f46f52d52885aca5
 https://conda.anaconda.org/conda-forge/linux-ppc64le/conda-forge-ci-setup-3.4.0-py37hc8dfbb8_0.tar.bz2#3f815f3298d7f77ec45cb53a5f46e853
