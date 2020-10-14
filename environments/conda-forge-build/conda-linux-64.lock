@@ -30,7 +30,7 @@ https://conda.anaconda.org/conda-forge/linux-64/perl-5.26.2-h516909a_1006.tar.bz
 https://conda.anaconda.org/conda-forge/linux-64/ripgrep-12.1.1-h516909a_0.tar.bz2#61d7aa8e729bab4f23af0fa6640c495f
 https://conda.anaconda.org/conda-forge/linux-64/xz-5.2.5-h516909a_1.tar.bz2#33f601066901f3e1a85af3522a8113f9
 https://conda.anaconda.org/conda-forge/linux-64/yaml-0.2.5-h516909a_0.tar.bz2#03a530e925414902547cf48da7756db8
-https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.11-h516909a_1009.tar.bz2#93486907c6757170a5125198506d9cf8
+https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.11-h516909a_1010.tar.bz2#339cc5584e6d26bc73a875ba900028c3
 https://conda.anaconda.org/conda-forge/linux-64/gettext-0.19.8.1-hc5be6a0_1002.tar.bz2#8c2f1de42f9eec059418f3083f03cabc
 https://conda.anaconda.org/conda-forge/linux-64/jq-1.6-h14c3975_1000.tar.bz2#3d0d3e5b46fe2856358ebd195fe23e6a
 https://conda.anaconda.org/conda-forge/linux-64/libedit-3.1.20191231-he28a2e2_2.tar.bz2#4d331e44109e3f0e19b4cb8f9b82f3e1
@@ -95,5 +95,5 @@ https://conda.anaconda.org/conda-forge/noarch/urllib3-1.25.10-py_0.tar.bz2#82cde
 https://conda.anaconda.org/conda-forge/noarch/requests-2.24.0-pyh9f0ad1d_0.tar.bz2#786ef230ca5cf2536e9dee910fdf4f9f
 https://conda.anaconda.org/conda-forge/noarch/anaconda-client-1.7.2-py_0.tar.bz2#1ada0ee7841ef357baf8cb8ae71fac9b
 https://conda.anaconda.org/conda-forge/linux-64/conda-4.8.5-py37he5f6b98_2.tar.bz2#5eb10a3b147550ebbf4308443569e074
-https://conda.anaconda.org/conda-forge/linux-64/conda-build-3.20.3-py37hc8dfbb8_0.tar.bz2#6c03f65ff91de1228a75737fdb323a9d
-https://conda.anaconda.org/conda-forge/linux-64/conda-forge-ci-setup-3.4.0-py37h71091ce_0.tar.bz2#009ccbd5343a642a7c7afeabd8b4c037
+https://conda.anaconda.org/conda-forge/linux-64/conda-build-3.20.4-py37he5f6b98_0.tar.bz2#29e3a86a4098dae81ecffe0fc471f6a0
+https://conda.anaconda.org/conda-forge/linux-64/conda-forge-ci-setup-3.4.1-py37h7c4b5d5_0.tar.bz2#e0b9ef9b3d6cb3cd2d973a20f1874167
