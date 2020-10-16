@@ -60,7 +60,7 @@ https://conda.anaconda.org/conda-forge/noarch/six-1.15.0-pyh9f0ad1d_0.tar.bz2#1e
 https://conda.anaconda.org/conda-forge/noarch/soupsieve-2.0.1-py_1.tar.bz2#aa1db70848c19bace567ba39a157f508
 https://conda.anaconda.org/conda-forge/noarch/tqdm-4.50.2-pyh9f0ad1d_0.tar.bz2#ed198b205c15a7f4157aad92c60afc86
 https://conda.anaconda.org/conda-forge/noarch/wheel-0.35.1-pyh9f0ad1d_0.tar.bz2#126827869be32f21872a2b30ebe2b038
-https://conda.anaconda.org/conda-forge/noarch/zipp-3.3.0-py_0.tar.bz2#82671ac8792f7ce5fdc601f9692f95f1
+https://conda.anaconda.org/conda-forge/noarch/zipp-3.3.1-py_0.tar.bz2#06e229323eb56b9017ee325f49cb2ece
 https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.9.3-pyhb0f4dca_0.tar.bz2#d243a293d7303ab6195d96ce8c16b1cb
 https://conda.anaconda.org/conda-forge/linux-ppc64le/certifi-2020.6.20-py37hc66f150_2.tar.bz2#8aceeee458d5ec003f2f3faecae63f56
 https://conda.anaconda.org/conda-forge/linux-ppc64le/cffi-1.14.3-py37hfd0f6ff_1.tar.bz2#f2c58f2082d82a957519e0930f29d45c
@@ -96,4 +96,4 @@ https://conda.anaconda.org/conda-forge/noarch/requests-2.24.0-pyh9f0ad1d_0.tar.b
 https://conda.anaconda.org/conda-forge/noarch/anaconda-client-1.7.2-py_0.tar.bz2#1ada0ee7841ef357baf8cb8ae71fac9b
 https://conda.anaconda.org/conda-forge/linux-ppc64le/conda-4.8.5-py37hc66f150_3.tar.bz2#4ee0e4b905f92decf62e10c20b0d7d98
 https://conda.anaconda.org/conda-forge/linux-ppc64le/conda-build-3.20.4-py37hc66f150_1.tar.bz2#3d0238c2e9e28c3ef8c711a512143b84
-https://conda.anaconda.org/conda-forge/linux-ppc64le/conda-forge-ci-setup-3.4.1-py37he227a23_0.tar.bz2#0d1bd2db585dcf68ebfd00db505eec60
+https://conda.anaconda.org/conda-forge/linux-ppc64le/conda-forge-ci-setup-3.4.1-py37he227a23_1.tar.bz2#c3ead14154265a0097169841479d5216
