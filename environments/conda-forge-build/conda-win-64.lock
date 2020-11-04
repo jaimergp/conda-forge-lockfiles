@@ -105,6 +105,7 @@ https://conda.anaconda.org/msys2/win-64/m2-perl-net-ssleay-1.72-2.tar.bz2#c8e949
 https://conda.anaconda.org/conda-forge/win-64/menuinst-1.4.16-py37hc8dfbb8_1.tar.bz2#25864d0f620ec6d540dd43aa49b95d43
 https://conda.anaconda.org/conda-forge/win-64/pysocks-1.7.1-py37hf50a25e_2.tar.bz2#5aa31e3f7f568e6f1362f49c61899b4e
 https://conda.anaconda.org/conda-forge/win-64/setuptools-49.6.0-py37hf50a25e_2.tar.bz2#f4baae013473c95c43ddd749def77ab0
+https://conda.anaconda.org/conda-forge/noarch/shyaml-0.6.1-py_0.tar.bz2#60803b63897c151e5c680e1cd2bc520f
 https://conda.anaconda.org/conda-forge/noarch/clyent-1.2.2-py_1.tar.bz2#b9ee3fdf59f49883497741509ea364b6
 https://conda.anaconda.org/conda-forge/noarch/jinja2-2.11.2-pyh9f0ad1d_0.tar.bz2#e8a5d614d1a27bdba00059ca062a0551
 https://conda.anaconda.org/conda-forge/noarch/jsonschema-3.2.0-py_2.tar.bz2#a17aa962de6145d08e1008cb37c20161
@@ -151,4 +152,4 @@ https://conda.anaconda.org/msys2/win-64/m2-perl-libwww-6.13-2.tar.bz2#d5fdcd47bf
 https://conda.anaconda.org/msys2/win-64/m2-libcurl-7.47.1-3.tar.bz2#2e22804f9ead69e32f7e0b70ac680419
 https://conda.anaconda.org/msys2/win-64/m2-curl-7.47.1-3.tar.bz2#d8efb3aa9fa5e169389d5cab6fd22e43
 https://conda.anaconda.org/msys2/win-64/m2-git-2.8.1-2.tar.bz2#e2c3403a10b2b21a374a040e7f6e0f6a
-https://conda.anaconda.org/conda-forge/win-64/conda-forge-ci-setup-3.4.1-py37he227a23_1.tar.bz2#f2e0972ed26b2befa8abd363f341c968
+https://conda.anaconda.org/conda-forge/win-64/conda-forge-ci-setup-3.5.0-py37hca1379c_0.tar.bz2#e61a54a30bc1ed2777cb7d46f0e3a467
