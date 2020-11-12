@@ -25,7 +25,7 @@ https://conda.anaconda.org/conda-forge/linux-aarch64/oniguruma-6.9.3-h516909a_0.
 https://conda.anaconda.org/conda-forge/linux-aarch64/openssl-1.1.1h-h2923d19_0.tar.bz2#77d6ae79b2aac2b3839870b7b9e82c5b
 https://conda.anaconda.org/conda-forge/linux-aarch64/patchelf-0.11-h4c5d2ac_0.tar.bz2#c65393bfc6a83a1a16b327e373db8ebe
 https://conda.anaconda.org/conda-forge/linux-aarch64/pcre-8.44-he1b5a44_0.tar.bz2#1844bc1c1647994ee1b3a0fab69ffeed
-https://conda.anaconda.org/conda-forge/linux-aarch64/perl-5.26.2-hb9de7d4_1008.tar.bz2#4e0b386e1627f1487881949bf094686c
+https://conda.anaconda.org/conda-forge/linux-aarch64/perl-5.32.0-hb9de7d4_0.tar.bz2#874568f8d68b5fea5d82df1064d781c7
 https://conda.anaconda.org/conda-forge/linux-aarch64/ripgrep-12.1.1-h516909a_1.tar.bz2#6f39f0dd8d37260921f8d36f48eda88d
 https://conda.anaconda.org/conda-forge/linux-aarch64/xz-5.2.5-h6dd45c4_1.tar.bz2#9da6f161d0f47f8a29fa708cda8deda2
 https://conda.anaconda.org/conda-forge/linux-aarch64/yaml-0.2.5-h516909a_0.tar.bz2#2f7b51117290b7e95d61e6ff9abd7a3a
@@ -65,7 +65,7 @@ https://conda.anaconda.org/conda-forge/linux-aarch64/certifi-2020.11.8-py37hd9de
 https://conda.anaconda.org/conda-forge/linux-aarch64/cffi-1.14.3-py37hce089e5_1.tar.bz2#51b3236b72cf7182323d0f5f995dc931
 https://conda.anaconda.org/conda-forge/linux-aarch64/chardet-3.0.4-py37h2c6a3fe_1008.tar.bz2#5802944a82cf4b7820893a11e19f8f7b
 https://conda.anaconda.org/conda-forge/linux-aarch64/conda-package-handling-1.7.2-py37h6ffa973_0.tar.bz2#71031ad1b0080b8808a300fc33be3305
-https://conda.anaconda.org/conda-forge/linux-aarch64/git-2.29.2-pl5262h4bda1d3_0.tar.bz2#0019149b323fe06f50e8eab7b2dcbba0
+https://conda.anaconda.org/conda-forge/linux-aarch64/git-2.29.2-pl5320h4bda1d3_0.tar.bz2#9a13c472972c69e1600bb86b8e121df2
 https://conda.anaconda.org/conda-forge/noarch/importlib-metadata-2.0.0-py_1.tar.bz2#9061524478034b761f355a42bd9a7e3d
 https://conda.anaconda.org/conda-forge/linux-aarch64/markupsafe-1.1.1-py37h6ffa973_2.tar.bz2#e0b93d39dedd5fc81fc9f271df6c255d
 https://conda.anaconda.org/conda-forge/linux-aarch64/psutil-5.7.3-py37h6ffa973_0.tar.bz2#930e146bc108c4b78f66f7ca685b7cc9
