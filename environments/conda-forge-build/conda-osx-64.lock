@@ -1,8 +1,6 @@
 # platform: osx-64
 # env_hash: 73981678075641988c5c4c6842dccac36304e235005ba5cd35a820dcd346019a
-
 @EXPLICIT
-
 https://conda.anaconda.org/conda-forge/osx-64/bzip2-1.0.8-haf1e3a3_3.tar.bz2#caf888e9502062a4d17e811871b44637
 https://conda.anaconda.org/conda-forge/osx-64/c-ares-1.17.1-hc929b4f_0.tar.bz2#24fc0b91a6eacc6753fef90514d67ce9
 https://conda.anaconda.org/conda-forge/osx-64/ca-certificates-2020.11.8-h033912b_0.tar.bz2#80ae143af10fb5c662a3ef1579948c30
