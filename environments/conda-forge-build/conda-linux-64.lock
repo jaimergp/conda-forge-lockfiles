@@ -65,7 +65,7 @@ https://conda.anaconda.org/conda-forge/linux-64/cffi-1.14.3-py37h00ebd2e_1.tar.b
 https://conda.anaconda.org/conda-forge/linux-64/chardet-3.0.4-py37he5f6b98_1008.tar.bz2#2f4cf1309df625c3eb0314a170fb9593
 https://conda.anaconda.org/conda-forge/linux-64/conda-package-handling-1.7.2-py37hb5d75c8_0.tar.bz2#f339f7aca7602c5ca609ccad0162d651
 https://conda.anaconda.org/conda-forge/linux-64/git-2.29.2-pl5320h78be0e9_1.tar.bz2#ea8ae0af9810fda05ea6d84eb9e96d92
-https://conda.anaconda.org/conda-forge/noarch/importlib-metadata-3.0.0-pyhd8ed1ab_0.tar.bz2#99e8b0f8aad565f27470505fe6f46a3c
+https://conda.anaconda.org/conda-forge/noarch/importlib-metadata-3.1.0-pyhd8ed1ab_0.tar.bz2#97a4bcec44626ddea360efdf7d5ad816
 https://conda.anaconda.org/conda-forge/linux-64/markupsafe-1.1.1-py37hb5d75c8_2.tar.bz2#31e6e17a00c0a624765a4ef79344359c
 https://conda.anaconda.org/conda-forge/linux-64/psutil-5.7.3-py37hb5d75c8_0.tar.bz2#b948c27cd9a2bdcf163673432030238e
 https://conda.anaconda.org/conda-forge/linux-64/py-lief-0.10.1-py37hb892b2f_2.tar.bz2#4f7920fb33c65860b3bc2f9bbd019714
@@ -79,7 +79,7 @@ https://conda.anaconda.org/conda-forge/linux-64/ruamel_yaml-0.15.80-py37hb5d75c8
 https://conda.anaconda.org/conda-forge/noarch/traitlets-5.0.5-py_0.tar.bz2#99618ee9ab1323e40f231acdab92fe60
 https://conda.anaconda.org/conda-forge/linux-64/brotlipy-0.7.0-py37hb5d75c8_1001.tar.bz2#1e60063ddc9de28cb48bddb48bdc1395
 https://conda.anaconda.org/conda-forge/linux-64/cryptography-3.2.1-py37hc72a4ac_0.tar.bz2#1cae0ac203b9a09df81effb5c028e48d
-https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-3.0.0-hd8ed1ab_0.tar.bz2#a398fd632e96cc2bca2a890fe2921110
+https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-3.1.0-hd8ed1ab_0.tar.bz2#182b3a7c361dfc0de2ed1abf90fd61c8
 https://conda.anaconda.org/conda-forge/linux-64/jupyter_core-4.7.0-py37h89c1867_0.tar.bz2#b0ef15d0616bc2e2b651d37b7760c0ce
 https://conda.anaconda.org/conda-forge/linux-64/setuptools-49.6.0-py37he5f6b98_2.tar.bz2#eeae6a29001871a6a30de45b910e0d72
 https://conda.anaconda.org/conda-forge/noarch/shyaml-0.6.1-py_0.tar.bz2#60803b63897c151e5c680e1cd2bc520f
