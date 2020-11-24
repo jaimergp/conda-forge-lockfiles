@@ -20,7 +20,7 @@ https://conda.anaconda.org/conda-forge/linux-64/liblief-0.10.1-he1b5a44_2.tar.bz
 https://conda.anaconda.org/conda-forge/linux-64/lz4-c-1.9.2-he1b5a44_3.tar.bz2#b2e54aad8640e7a877d2280d3ebfe85b
 https://conda.anaconda.org/conda-forge/linux-64/lzo-2.10-h516909a_1000.tar.bz2#bb14fcb13341b81d5eb386423b9d2bac
 https://conda.anaconda.org/conda-forge/linux-64/ncurses-6.2-h58526e2_4.tar.bz2#509f2a21c4a09214cd737a480dfd80c9
-https://conda.anaconda.org/conda-forge/linux-64/oniguruma-6.9.3-h516909a_0.tar.bz2#c24b1497d3db76fd29b9814c23b36eba
+https://conda.anaconda.org/conda-forge/linux-64/oniguruma-6.9.3-h36c2ea0_0.tar.bz2#e4cc96cb16f6763f85d61739a22854bc
 https://conda.anaconda.org/conda-forge/linux-64/openssl-1.1.1h-h516909a_0.tar.bz2#3a99e0cb8f325dbf8f616da2d2fb6d4f
 https://conda.anaconda.org/conda-forge/linux-64/patchelf-0.11-he1b5a44_0.tar.bz2#da683ac27e9d838254e01639868a5a3e
 https://conda.anaconda.org/conda-forge/linux-64/pcre-8.44-he1b5a44_0.tar.bz2#e647d89cd5cdf62760cf283a001841ff
@@ -61,7 +61,7 @@ https://conda.anaconda.org/conda-forge/noarch/wheel-0.35.1-pyh9f0ad1d_0.tar.bz2#
 https://conda.anaconda.org/conda-forge/noarch/zipp-3.4.0-py_0.tar.bz2#0df927d2e46244cef8fd75d7ec2ba51c
 https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.9.3-pyhb0f4dca_0.tar.bz2#d243a293d7303ab6195d96ce8c16b1cb
 https://conda.anaconda.org/conda-forge/linux-64/certifi-2020.11.8-py37h89c1867_0.tar.bz2#9a18133b24574aab1482ff9d39a2dc5c
-https://conda.anaconda.org/conda-forge/linux-64/cffi-1.14.3-py37h00ebd2e_1.tar.bz2#61085a2b52d6cc283e2f93b814d541f1
+https://conda.anaconda.org/conda-forge/linux-64/cffi-1.14.4-py37h11fe52a_0.tar.bz2#2640988a30e6b84da411402a8cdeb9f6
 https://conda.anaconda.org/conda-forge/linux-64/chardet-3.0.4-py37he5f6b98_1008.tar.bz2#2f4cf1309df625c3eb0314a170fb9593
 https://conda.anaconda.org/conda-forge/linux-64/conda-package-handling-1.7.2-py37hb5d75c8_0.tar.bz2#f339f7aca7602c5ca609ccad0162d651
 https://conda.anaconda.org/conda-forge/linux-64/git-2.29.2-pl5320h78be0e9_1.tar.bz2#ea8ae0af9810fda05ea6d84eb9e96d92
