@@ -14,7 +14,7 @@ https://conda.anaconda.org/conda-forge/linux-ppc64le/c-ares-1.17.1-h339bb43_0.ta
 https://conda.anaconda.org/conda-forge/linux-ppc64le/expat-2.2.9-hb209c28_2.tar.bz2#634ba9b7430ffd89973d583f5e1f4d75
 https://conda.anaconda.org/conda-forge/linux-ppc64le/icu-67.1-hb209c28_0.tar.bz2#4a5254960e5f1a7f0dad34afb0c30cbc
 https://conda.anaconda.org/conda-forge/linux-ppc64le/libev-4.33-h6eb9509_1.tar.bz2#8851ef01bd32a18f6dbae78a24529450
-https://conda.anaconda.org/conda-forge/linux-ppc64le/libffi-3.2.1-hb209c28_1007.tar.bz2#714a76b63c585f6e2abd3af4eecb8b22
+https://conda.anaconda.org/conda-forge/linux-ppc64le/libffi-3.3-hea85c5d_1.tar.bz2#80c889126373ff4c15067874a8839067
 https://conda.anaconda.org/conda-forge/linux-ppc64le/libiconv-1.16-h6eb9509_0.tar.bz2#87bd60c1b5f6691f583d9672d9b9fe8b
 https://conda.anaconda.org/conda-forge/linux-ppc64le/liblief-0.10.1-ha4af025_2.tar.bz2#bd82299840551876afe313143b1330d5
 https://conda.anaconda.org/conda-forge/linux-ppc64le/lz4-c-1.9.2-hb209c28_3.tar.bz2#39a00c96ff320ebcbbf0e98a9e063df5
@@ -29,7 +29,7 @@ https://conda.anaconda.org/conda-forge/linux-ppc64le/ripgrep-12.1.1-h6eb9509_1.t
 https://conda.anaconda.org/conda-forge/linux-ppc64le/xz-5.2.5-h6eb9509_1.tar.bz2#6d26cf2167b7d04c9db849cfdabe7431
 https://conda.anaconda.org/conda-forge/linux-ppc64le/yaml-0.2.5-h6eb9509_0.tar.bz2#98b522b3a7a11e53397961288f0b4277
 https://conda.anaconda.org/conda-forge/linux-ppc64le/zlib-1.2.11-h6eb9509_1010.tar.bz2#f1163952db9976915c79cf1dd03ea6ef
-https://conda.anaconda.org/conda-forge/linux-ppc64le/gettext-0.19.8.1-h731f51d_1004.tar.bz2#53580294bf4660fad49b7eef4db08703
+https://conda.anaconda.org/conda-forge/linux-ppc64le/gettext-0.19.8.1-hf23c357_1005.tar.bz2#d8a451f07602be0a546737993879603e
 https://conda.anaconda.org/conda-forge/linux-ppc64le/jq-1.6-h14c3975_1000.tar.bz2#32a47ade643dce31cc2789298b808080
 https://conda.anaconda.org/conda-forge/linux-ppc64le/libedit-3.1.20191231-h41a240f_2.tar.bz2#5d316fcbed301564d0793e5833f67a68
 https://conda.anaconda.org/conda-forge/linux-ppc64le/libnghttp2-1.41.0-h0eba5ba_2.tar.bz2#9a654f20f40de97a224a038f4f8ea26d
@@ -42,7 +42,7 @@ https://conda.anaconda.org/conda-forge/linux-ppc64le/krb5-1.17.2-h2004cfc_0.tar.
 https://conda.anaconda.org/conda-forge/linux-ppc64le/libarchive-3.4.3-h75da85a_0.tar.bz2#87f8c4a18551f59f469c7dd80c11bbeb
 https://conda.anaconda.org/conda-forge/linux-ppc64le/sqlite-3.33.0-h433b40a_1.tar.bz2#7ef5db5142e491006673fc644811232e
 https://conda.anaconda.org/conda-forge/linux-ppc64le/libcurl-7.71.1-he8386ad_8.tar.bz2#3caac960c4ca4bbc2e108007b2462ada
-https://conda.anaconda.org/conda-forge/linux-ppc64le/python-3.7.8-h4bff028_2_cpython.tar.bz2#d5ae4999767b786ca88295bca233ae39
+https://conda.anaconda.org/conda-forge/linux-ppc64le/python-3.7.8-h8137939_3_cpython.tar.bz2#75fc9f738cdb7879b42acd02d6d25ce1
 https://conda.anaconda.org/conda-forge/noarch/attrs-20.3.0-pyhd3deb0d_0.tar.bz2#5b319abb055eefcfa344bc21378ca23f
 https://conda.anaconda.org/conda-forge/noarch/click-7.1.2-pyh9f0ad1d_0.tar.bz2#bd50a970ce07e660c319fdc4d730d3f1
 https://conda.anaconda.org/conda-forge/linux-ppc64le/curl-7.71.1-hfd09b2d_8.tar.bz2#c3482585148b265b7b84e0f15293b530
@@ -61,7 +61,7 @@ https://conda.anaconda.org/conda-forge/noarch/wheel-0.35.1-pyh9f0ad1d_0.tar.bz2#
 https://conda.anaconda.org/conda-forge/noarch/zipp-3.4.0-py_0.tar.bz2#0df927d2e46244cef8fd75d7ec2ba51c
 https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.9.3-pyhb0f4dca_0.tar.bz2#d243a293d7303ab6195d96ce8c16b1cb
 https://conda.anaconda.org/conda-forge/linux-ppc64le/certifi-2020.11.8-py37h35e4cab_0.tar.bz2#5b973e8da224acd65bc007e0826ce24b
-https://conda.anaconda.org/conda-forge/linux-ppc64le/cffi-1.14.4-py37ha8507a7_0.tar.bz2#939b23139bbd31da2592944ee89fa7bf
+https://repo.anaconda.com/pkgs/main/linux-ppc64le/cffi-1.14.3-py37hf9d8e4b_2.conda#301f98d07f17de92e7eb04ef9a52531c
 https://conda.anaconda.org/conda-forge/linux-ppc64le/chardet-3.0.4-py37hc66f150_1008.tar.bz2#21ee58687cfdfa3ef93069ec1142be71
 https://conda.anaconda.org/conda-forge/linux-ppc64le/conda-package-handling-1.7.2-py37hf6f4062_0.tar.bz2#a2d05675e82bfb4268945c08597f07c1
 https://conda.anaconda.org/conda-forge/linux-ppc64le/git-2.29.2-pl5320hb310f45_1.tar.bz2#9cf0691ea5395b8d20f52943feb3b0c7
