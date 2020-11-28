@@ -13,7 +13,7 @@ https://conda.anaconda.org/conda-forge/linux-aarch64/c-ares-1.17.1-hb9de7d4_0.ta
 https://conda.anaconda.org/conda-forge/linux-aarch64/expat-2.2.9-h4c5d2ac_2.tar.bz2#43a26cb632166aee0e0851054ed63ab8
 https://conda.anaconda.org/conda-forge/linux-aarch64/icu-67.1-h4c5d2ac_0.tar.bz2#4e5320006d5a9e3bee039388963f1db0
 https://conda.anaconda.org/conda-forge/linux-aarch64/libev-4.33-h516909a_1.tar.bz2#9eac5901791494108c9b9ab85ca8aa93
-https://conda.anaconda.org/conda-forge/linux-aarch64/libffi-3.2.1-h4c5d2ac_1007.tar.bz2#0b4714d705fcbe3d3a1c39e02c750173
+https://conda.anaconda.org/conda-forge/linux-aarch64/libffi-3.3-h884eca8_1.tar.bz2#9b3a61388391155528cb7b5eef7ad31f
 https://conda.anaconda.org/conda-forge/linux-aarch64/libiconv-1.16-h6dd45c4_0.tar.bz2#ddf5f3b177dde259a682f1820110b238
 https://conda.anaconda.org/conda-forge/linux-aarch64/liblief-0.10.1-he1b5a44_2.tar.bz2#b37affae2f99cad24f11261481bc30ba
 https://conda.anaconda.org/conda-forge/linux-aarch64/lz4-c-1.9.2-he1b5a44_3.tar.bz2#2f950a46172577d966f500222f95b87d
@@ -28,7 +28,7 @@ https://conda.anaconda.org/conda-forge/linux-aarch64/ripgrep-12.1.1-h516909a_1.t
 https://conda.anaconda.org/conda-forge/linux-aarch64/xz-5.2.5-h6dd45c4_1.tar.bz2#9da6f161d0f47f8a29fa708cda8deda2
 https://conda.anaconda.org/conda-forge/linux-aarch64/yaml-0.2.5-h516909a_0.tar.bz2#2f7b51117290b7e95d61e6ff9abd7a3a
 https://conda.anaconda.org/conda-forge/linux-aarch64/zlib-1.2.11-h516909a_1009.tar.bz2#8f012adadf82e1440ff1249634fdf6b4
-https://conda.anaconda.org/conda-forge/linux-aarch64/gettext-0.19.8.1-hf34092f_1004.tar.bz2#2dd014596da00d88f861e36de1fe4f96
+https://conda.anaconda.org/conda-forge/linux-aarch64/gettext-0.19.8.1-h4454c44_1005.tar.bz2#caad965b0fdaaab450210323d9516f77
 https://conda.anaconda.org/conda-forge/linux-aarch64/jq-1.6-h14c3975_1000.tar.bz2#51b2afed606b10f1d276471979d96b94
 https://conda.anaconda.org/conda-forge/linux-aarch64/libedit-3.1.20191231-he28a2e2_2.tar.bz2#29371161d77933a54fccf1bb66b96529
 https://conda.anaconda.org/conda-forge/linux-aarch64/libnghttp2-1.41.0-h8cfc5f6_2.tar.bz2#f0923ff3705a9c800a89990cacf73198
@@ -41,7 +41,7 @@ https://conda.anaconda.org/conda-forge/linux-aarch64/krb5-1.17.2-he08ec14_0.tar.
 https://conda.anaconda.org/conda-forge/linux-aarch64/libarchive-3.4.3-hd53e00b_0.tar.bz2#167c8ef2d7d0ceb8f5b5e86f820f895e
 https://conda.anaconda.org/conda-forge/linux-aarch64/sqlite-3.33.0-he83ba2a_1.tar.bz2#8370ba2e49ac28ae36aadd9777668689
 https://conda.anaconda.org/conda-forge/linux-aarch64/libcurl-7.71.1-hcdd3856_8.tar.bz2#02c528cf3999da407527963e8305b55a
-https://conda.anaconda.org/conda-forge/linux-aarch64/python-3.7.8-h64f7b3f_2_cpython.tar.bz2#44ed09229adf0ea53eda3dcc39e68c51
+https://conda.anaconda.org/conda-forge/linux-aarch64/python-3.7.8-h3bd6a85_3_cpython.tar.bz2#845d20b0a277a1c763ab1548f30688f0
 https://conda.anaconda.org/conda-forge/noarch/attrs-20.3.0-pyhd3deb0d_0.tar.bz2#5b319abb055eefcfa344bc21378ca23f
 https://conda.anaconda.org/conda-forge/noarch/click-7.1.2-pyh9f0ad1d_0.tar.bz2#bd50a970ce07e660c319fdc4d730d3f1
 https://conda.anaconda.org/conda-forge/linux-aarch64/curl-7.71.1-he644dc0_8.tar.bz2#7ae8ddafdd05fb6239b7eafcd8b1bbf6
@@ -60,7 +60,7 @@ https://conda.anaconda.org/conda-forge/noarch/wheel-0.35.1-pyh9f0ad1d_0.tar.bz2#
 https://conda.anaconda.org/conda-forge/noarch/zipp-3.4.0-py_0.tar.bz2#0df927d2e46244cef8fd75d7ec2ba51c
 https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.9.3-pyhb0f4dca_0.tar.bz2#d243a293d7303ab6195d96ce8c16b1cb
 https://conda.anaconda.org/conda-forge/linux-aarch64/certifi-2020.11.8-py37hd9ded2f_0.tar.bz2#330755a6634ee90a85612f71857422c5
-https://conda.anaconda.org/conda-forge/linux-aarch64/cffi-1.14.4-py37habc6d80_0.tar.bz2#aeb7351d5994db45856c2c65c79f7f62
+https://conda.anaconda.org/conda-forge/linux-aarch64/cffi-1.14.4-py37habb7ed1_1.tar.bz2#0ae16e342627f4e15b414826feeec2d3
 https://conda.anaconda.org/conda-forge/linux-aarch64/chardet-3.0.4-py37h2c6a3fe_1008.tar.bz2#5802944a82cf4b7820893a11e19f8f7b
 https://conda.anaconda.org/conda-forge/linux-aarch64/conda-package-handling-1.7.2-py37h6ffa973_0.tar.bz2#71031ad1b0080b8808a300fc33be3305
 https://conda.anaconda.org/conda-forge/linux-aarch64/git-2.29.2-pl5320h4bda1d3_1.tar.bz2#ae8536ed4b7792c33a0fef8af7744c1b
