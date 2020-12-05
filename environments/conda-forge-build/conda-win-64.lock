@@ -1,7 +1,7 @@
 # platform: win-64
 # env_hash: 83d9c8a8bad3e62ecf7ebfeb1edadfa27a27b68c0dbc61b83c07ef8c32c4edc5
 @EXPLICIT
-https://conda.anaconda.org/conda-forge/win-64/ca-certificates-2020.11.8-h5b45459_0.tar.bz2#21fea8c142c35d2967cb0300e5056980
+https://conda.anaconda.org/conda-forge/win-64/ca-certificates-2020.12.5-h5b45459_0.tar.bz2#f36a2988a9f57cffdc43929ba67a3a2a
 https://conda.anaconda.org/conda-forge/noarch/conda-env-2.6.0-1.tar.bz2#2e87f617581c88d249c72bfd350936eb
 https://conda.anaconda.org/msys2/win-64/msys2-conda-epoch-20160418-1.tar.bz2#6eaef3074f65f715ed1ca6b8a08be3aa
 https://conda.anaconda.org/conda-forge/win-64/vs2008_express_vc_python_patch-1.0.0-0.tar.bz2#f7001bc94fde07cf13903c17a78b72a3
@@ -67,7 +67,7 @@ https://conda.anaconda.org/conda-forge/noarch/tqdm-4.54.1-pyhd8ed1ab_0.tar.bz2#7
 https://conda.anaconda.org/conda-forge/noarch/wheel-0.36.1-pyhd3deb0d_0.tar.bz2#c6ed1f08b1fdc10511b90245b87dc504
 https://conda.anaconda.org/conda-forge/noarch/zipp-3.4.0-py_0.tar.bz2#0df927d2e46244cef8fd75d7ec2ba51c
 https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.9.3-pyhb0f4dca_0.tar.bz2#d243a293d7303ab6195d96ce8c16b1cb
-https://conda.anaconda.org/conda-forge/win-64/certifi-2020.11.8-py37h03978a9_0.tar.bz2#d0db8c93ae8163778fe97fdba1c0024f
+https://conda.anaconda.org/conda-forge/win-64/certifi-2020.12.5-py37h03978a9_0.tar.bz2#bd6ad6d809bbe7b034d4b468e49ed247
 https://conda.anaconda.org/conda-forge/win-64/cffi-1.14.4-py37hd8e9650_1.tar.bz2#0e1f891281599a450244f7e02966e54f
 https://conda.anaconda.org/conda-forge/win-64/chardet-3.0.4-py37hf50a25e_1008.tar.bz2#5f08c251d2878ff6b182162cfdb6b545
 https://conda.anaconda.org/conda-forge/win-64/conda-package-handling-1.7.2-py37h6dbccfb_0.tar.bz2#34ec2ca194aacdae7b8b43682a4e898d
