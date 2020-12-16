@@ -63,7 +63,7 @@ https://conda.anaconda.org/conda-forge/noarch/zipp-3.4.0-py_0.tar.bz2#0df927d2e4
 https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.9.3-pyhb0f4dca_0.tar.bz2#d243a293d7303ab6195d96ce8c16b1cb
 https://conda.anaconda.org/conda-forge/linux-ppc64le/certifi-2020.12.5-py37h35e4cab_0.tar.bz2#1f211780d77db995cb7bde6821d633e4
 https://conda.anaconda.org/conda-forge/linux-ppc64le/cffi-1.14.4-py37h2b3dc6b_1.tar.bz2#74e8dc04ae245cdb284490ecada2def7
-https://conda.anaconda.org/conda-forge/linux-ppc64le/chardet-3.0.4-py37hc66f150_1008.tar.bz2#21ee58687cfdfa3ef93069ec1142be71
+https://conda.anaconda.org/conda-forge/linux-ppc64le/chardet-4.0.0-py37h35e4cab_0.tar.bz2#704560915044667ce90088e1c2ace514
 https://conda.anaconda.org/conda-forge/linux-ppc64le/conda-package-handling-1.7.2-py37hf6f4062_0.tar.bz2#a2d05675e82bfb4268945c08597f07c1
 https://conda.anaconda.org/conda-forge/linux-ppc64le/git-2.29.2-pl5320hb310f45_1.tar.bz2#9cf0691ea5395b8d20f52943feb3b0c7
 https://conda.anaconda.org/conda-forge/linux-ppc64le/importlib-metadata-3.3.0-py37h35e4cab_2.tar.bz2#9e456051504fdddd3c056c854a03c225
@@ -90,8 +90,8 @@ https://conda.anaconda.org/conda-forge/noarch/jsonschema-3.2.0-py_2.tar.bz2#a17a
 https://conda.anaconda.org/conda-forge/noarch/pip-20.3.3-pyhd8ed1ab_0.tar.bz2#c7e5c449e502567a995e4bd09c538faf
 https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.1-pyhd8ed1ab_0.tar.bz2#92371c25994d0f5d28a01c1fb75ebf86
 https://conda.anaconda.org/conda-forge/noarch/nbformat-5.0.8-py_0.tar.bz2#12aaf0d8795a5c375757b49a08e011a2
-https://conda.anaconda.org/conda-forge/noarch/urllib3-1.25.11-py_0.tar.bz2#4ce0599839b2b4418befe201e5f072fc
-https://conda.anaconda.org/conda-forge/noarch/requests-2.25.0-pyhd3deb0d_0.tar.bz2#5b983af1f3dcd93ef20f6067d077f6fe
+https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.2-pyhd8ed1ab_0.tar.bz2#8bb930d172961c9ba9ffd6e10a64b844
+https://conda.anaconda.org/conda-forge/noarch/requests-2.25.1-pyhd3deb0d_0.tar.bz2#ae687aba31a1c400192a86a2e993ffdc
 https://conda.anaconda.org/conda-forge/noarch/anaconda-client-1.7.2-py_0.tar.bz2#1ada0ee7841ef357baf8cb8ae71fac9b
 https://conda.anaconda.org/conda-forge/linux-ppc64le/conda-4.9.2-py37h35e4cab_0.tar.bz2#81b087eba4ddb4891bb4c1478b01f4eb
 https://conda.anaconda.org/conda-forge/linux-ppc64le/conda-build-3.20.5-py37hc66f150_0.tar.bz2#53e5af762e066e3ac546274e317956a1

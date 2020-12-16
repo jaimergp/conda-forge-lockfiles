@@ -57,7 +57,7 @@ https://conda.anaconda.org/conda-forge/noarch/zipp-3.4.0-py_0.tar.bz2#0df927d2e4
 https://conda.anaconda.org/conda-forge/noarch/beautifulsoup4-4.9.3-pyhb0f4dca_0.tar.bz2#d243a293d7303ab6195d96ce8c16b1cb
 https://conda.anaconda.org/conda-forge/osx-64/certifi-2020.12.5-py37hf985489_0.tar.bz2#9fcc641135db6236c4778856f7b628f3
 https://conda.anaconda.org/conda-forge/osx-64/cffi-1.14.4-py37hc5b2277_1.tar.bz2#8faba82b9f7ae18fd2f998eefdbec46a
-https://conda.anaconda.org/conda-forge/osx-64/chardet-3.0.4-py37h2987424_1008.tar.bz2#cc67a92b9d49d74caf6a71e6c8685141
+https://conda.anaconda.org/conda-forge/osx-64/chardet-4.0.0-py37hf985489_0.tar.bz2#a34d32e0615687d44513bccd0a938731
 https://conda.anaconda.org/conda-forge/osx-64/conda-package-handling-1.7.2-py37h395d20d_0.tar.bz2#b227ace74379574f65804db465891b71
 https://conda.anaconda.org/conda-forge/osx-64/git-2.29.2-pl5320h422953c_1.tar.bz2#bf72af5fa3739676c081e9edfc674443
 https://conda.anaconda.org/conda-forge/osx-64/importlib-metadata-3.3.0-py37hf985489_2.tar.bz2#2cb4cdff66da548c3bbd5ef392390488
@@ -84,8 +84,8 @@ https://conda.anaconda.org/conda-forge/noarch/jsonschema-3.2.0-py_2.tar.bz2#a17a
 https://conda.anaconda.org/conda-forge/noarch/pip-20.3.3-pyhd8ed1ab_0.tar.bz2#c7e5c449e502567a995e4bd09c538faf
 https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.1-pyhd8ed1ab_0.tar.bz2#92371c25994d0f5d28a01c1fb75ebf86
 https://conda.anaconda.org/conda-forge/noarch/nbformat-5.0.8-py_0.tar.bz2#12aaf0d8795a5c375757b49a08e011a2
-https://conda.anaconda.org/conda-forge/noarch/urllib3-1.25.11-py_0.tar.bz2#4ce0599839b2b4418befe201e5f072fc
-https://conda.anaconda.org/conda-forge/noarch/requests-2.25.0-pyhd3deb0d_0.tar.bz2#5b983af1f3dcd93ef20f6067d077f6fe
+https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.2-pyhd8ed1ab_0.tar.bz2#8bb930d172961c9ba9ffd6e10a64b844
+https://conda.anaconda.org/conda-forge/noarch/requests-2.25.1-pyhd3deb0d_0.tar.bz2#ae687aba31a1c400192a86a2e993ffdc
 https://conda.anaconda.org/conda-forge/noarch/anaconda-client-1.7.2-py_0.tar.bz2#1ada0ee7841ef357baf8cb8ae71fac9b
 https://conda.anaconda.org/conda-forge/osx-64/conda-4.9.2-py37hf985489_0.tar.bz2#8ccd5a89558c8f7ffb5f077c79da3a36
 https://conda.anaconda.org/conda-forge/osx-64/conda-build-3.20.5-py37h2987424_0.tar.bz2#8f23ac735215a6fba74bce4ce0a42db8
