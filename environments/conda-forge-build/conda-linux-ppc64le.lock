@@ -12,7 +12,7 @@ https://conda.anaconda.org/conda-forge/linux-ppc64le/libgcc-ng-9.3.0-hb998004_17
 https://conda.anaconda.org/conda-forge/linux-ppc64le/bzip2-1.0.8-h4e0d66e_4.tar.bz2#3cbc4e0eede8b25bc53b6a462815aceb
 https://conda.anaconda.org/conda-forge/linux-ppc64le/c-ares-1.17.1-h339bb43_0.tar.bz2#6e3446c9ba2844d043d04d4b57505e4f
 https://conda.anaconda.org/conda-forge/linux-ppc64le/expat-2.2.9-hb209c28_2.tar.bz2#634ba9b7430ffd89973d583f5e1f4d75
-https://conda.anaconda.org/conda-forge/linux-ppc64le/icu-67.1-hb209c28_0.tar.bz2#4a5254960e5f1a7f0dad34afb0c30cbc
+https://conda.anaconda.org/conda-forge/linux-ppc64le/icu-68.1-hea85c5d_0.tar.bz2#ba671ed8b5926c11ca1e5985045ab090
 https://conda.anaconda.org/conda-forge/linux-ppc64le/libev-4.33-h6eb9509_1.tar.bz2#8851ef01bd32a18f6dbae78a24529450
 https://conda.anaconda.org/conda-forge/linux-ppc64le/libffi-3.3-hea85c5d_2.tar.bz2#420a1f314e02ebf963c85c8b66da7a58
 https://conda.anaconda.org/conda-forge/linux-ppc64le/libiconv-1.16-h6eb9509_0.tar.bz2#87bd60c1b5f6691f583d9672d9b9fe8b
@@ -34,7 +34,7 @@ https://conda.anaconda.org/conda-forge/linux-ppc64le/jq-1.6-h339bb43_1000.tar.bz
 https://conda.anaconda.org/conda-forge/linux-ppc64le/libedit-3.1.20191231-h41a240f_2.tar.bz2#5d316fcbed301564d0793e5833f67a68
 https://conda.anaconda.org/conda-forge/linux-ppc64le/libnghttp2-1.41.0-h0eba5ba_2.tar.bz2#9a654f20f40de97a224a038f4f8ea26d
 https://conda.anaconda.org/conda-forge/linux-ppc64le/libssh2-1.9.0-h0e66b82_5.tar.bz2#264d4289b5360deb30fdc0342e501830
-https://conda.anaconda.org/conda-forge/linux-ppc64le/libxml2-2.9.10-hfa5d076_2.tar.bz2#89f6c124fc13cdf7ee6662f23ce62182
+https://conda.anaconda.org/conda-forge/linux-ppc64le/libxml2-2.9.10-h5b1524f_3.tar.bz2#6c79ab631c07b30675a2b4f298a105eb
 https://conda.anaconda.org/conda-forge/linux-ppc64le/readline-8.0-h41a240f_2.tar.bz2#cd63b00f29d6b0bafc9a29e356c914b5
 https://conda.anaconda.org/conda-forge/linux-ppc64le/tk-8.6.10-h38e1d09_1.tar.bz2#e35f19c3cd8b9ca16a7e160d00bb805d
 https://conda.anaconda.org/conda-forge/linux-ppc64le/zstd-1.4.5-h1dc757f_2.tar.bz2#e81014fbc9b2d9f7aac1181f7c26dfe7
