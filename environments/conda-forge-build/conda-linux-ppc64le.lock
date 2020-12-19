@@ -51,7 +51,6 @@ https://conda.anaconda.org/conda-forge/noarch/glob2-0.7-py_0.tar.bz2#1f3a88e65e6
 https://conda.anaconda.org/conda-forge/noarch/idna-2.10-pyh9f0ad1d_0.tar.bz2#f95a12b4f435aae6680fe55ae2eb1b06
 https://conda.anaconda.org/conda-forge/noarch/ipython_genutils-0.2.0-py_1.tar.bz2#5071c982548b3a20caf70462f04f5287
 https://conda.anaconda.org/conda-forge/noarch/pkginfo-1.6.1-pyh9f0ad1d_0.tar.bz2#9624126b9ae8f1004c137b111a817281
-https://repo.anaconda.com/pkgs/main/linux-ppc64le/psutil-5.7.2-py37h7b6447c_0.conda#4554b3e6c51e471026e4afdea86cc596
 https://conda.anaconda.org/conda-forge/noarch/pycparser-2.20-pyh9f0ad1d_2.tar.bz2#aa798d50ffd182a0f6f31478c7f434f6
 https://conda.anaconda.org/conda-forge/linux-ppc64le/python_abi-3.7-1_cp37m.tar.bz2#ab42f4e80cf206115640350c8a0a8742
 https://conda.anaconda.org/conda-forge/noarch/pytz-2020.4-pyhd8ed1ab_0.tar.bz2#14aefc827cbbd156cb1bd9e992210380
@@ -69,6 +68,7 @@ https://conda.anaconda.org/conda-forge/linux-ppc64le/conda-package-handling-1.7.
 https://conda.anaconda.org/conda-forge/linux-ppc64le/git-2.29.2-pl5320hb310f45_1.tar.bz2#9cf0691ea5395b8d20f52943feb3b0c7
 https://conda.anaconda.org/conda-forge/linux-ppc64le/importlib-metadata-3.3.0-py37h35e4cab_2.tar.bz2#9e456051504fdddd3c056c854a03c225
 https://conda.anaconda.org/conda-forge/linux-ppc64le/markupsafe-1.1.1-py37hf6f4062_2.tar.bz2#ae3d06e9943555fca196682e94cc9d9f
+https://conda.anaconda.org/conda-forge/linux-ppc64le/psutil-5.8.0-py37h6642d69_0.tar.bz2#d38f58f0a5201bbc2edb6c76bf49473b
 https://conda.anaconda.org/conda-forge/linux-ppc64le/py-lief-0.10.1-py37h0de2b31_2.tar.bz2#9786ed1bf7738e9b40d5ca1104000847
 https://conda.anaconda.org/conda-forge/linux-ppc64le/pycosat-0.6.3-py37hf6f4062_1005.tar.bz2#e640697b58849125f7c3a60c3d64e092
 https://conda.anaconda.org/conda-forge/linux-ppc64le/pyrsistent-0.17.3-py37h533c26d_1.tar.bz2#ac3dcddbb825592b19c4b2007d23c2a6
