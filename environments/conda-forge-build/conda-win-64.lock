@@ -16,7 +16,7 @@ https://conda.anaconda.org/conda-forge/win-64/vc-14.2-hb210afc_2.tar.bz2#6852e7e
 https://conda.anaconda.org/conda-forge/win-64/bzip2-1.0.8-h8ffe710_4.tar.bz2#7c03c66026944073040cb19a4f3ec3c9
 https://conda.anaconda.org/conda-forge/win-64/libiconv-1.16-he774522_0.tar.bz2#bdfeadc9348e4d9fbe4821e81bf8f221
 https://conda.anaconda.org/conda-forge/win-64/liblief-0.10.1-ha925a31_2.tar.bz2#722fe9d130f4504d4048a9c397f9d3ea
-https://conda.anaconda.org/conda-forge/win-64/lz4-c-1.9.2-h62dcd97_2.tar.bz2#a90475bc5d6e86b41360b614b20aa973
+https://conda.anaconda.org/conda-forge/win-64/lz4-c-1.9.3-h8ffe710_0.tar.bz2#5c9a617ed4fbd41f8c564fab236dda60
 https://conda.anaconda.org/conda-forge/win-64/lzo-2.10-he774522_1000.tar.bz2#d5cf4b7eaa52316f135eed9e8548ad57
 https://conda.anaconda.org/conda-forge/win-64/m2-bash-4.3.042-5.tar.bz2#d5b774cd54c9f764af2162c50de6b2bb
 https://conda.anaconda.org/conda-forge/win-64/m2-gcc-libs-5.3.0-4.tar.bz2#51f9bee002e596f14e31c4f528f1fe6c
@@ -39,14 +39,14 @@ https://conda.anaconda.org/conda-forge/win-64/m2-ncurses-6.0.20160220-2.tar.bz2#
 https://conda.anaconda.org/conda-forge/win-64/m2-zlib-1.2.8-4.tar.bz2#fc9577bb12893c02dd10480e75c683b1
 https://conda.anaconda.org/conda-forge/win-64/m2w64-gcc-libgfortran-5.3.0-6.tar.bz2#066552ac6b907ec6d72c0ddab29050dc
 https://conda.anaconda.org/conda-forge/win-64/python-3.7.9-h7840368_0_cpython.tar.bz2#5ca79ee9f34ec56ec44388bc7d209e7e
-https://conda.anaconda.org/conda-forge/win-64/zstd-1.4.8-h498f385_0.tar.bz2#7d4569aeb1f9c95d4e497fbdbd149c4b
+https://conda.anaconda.org/conda-forge/win-64/zstd-1.4.8-h4e2f164_1.tar.bz2#f8a86a17cb984eb3a5051e29dfb4168b
 https://conda.anaconda.org/conda-forge/noarch/attrs-20.3.0-pyhd3deb0d_0.tar.bz2#5b319abb055eefcfa344bc21378ca23f
 https://conda.anaconda.org/conda-forge/noarch/click-7.1.2-pyh9f0ad1d_0.tar.bz2#bd50a970ce07e660c319fdc4d730d3f1
 https://conda.anaconda.org/conda-forge/noarch/filelock-3.0.12-pyh9f0ad1d_0.tar.bz2#7544ed05bbbe9bb687bc9bcbe4d6cb46
 https://conda.anaconda.org/conda-forge/noarch/glob2-0.7-py_0.tar.bz2#1f3a88e65e61216e1d475135922dbf6a
 https://conda.anaconda.org/conda-forge/noarch/idna-2.10-pyh9f0ad1d_0.tar.bz2#f95a12b4f435aae6680fe55ae2eb1b06
 https://conda.anaconda.org/conda-forge/noarch/ipython_genutils-0.2.0-py_1.tar.bz2#5071c982548b3a20caf70462f04f5287
-https://conda.anaconda.org/conda-forge/win-64/libarchive-3.5.1-h811339a_0.tar.bz2#ce1f6c72b0926e1915c2122f1bdae0e8
+https://conda.anaconda.org/conda-forge/win-64/libarchive-3.5.1-hf621db8_1.tar.bz2#b41a022343bcc779afd13c6b9fb1b9fa
 https://conda.anaconda.org/conda-forge/win-64/m2-db-5.3.28-3.tar.bz2#64be1218ff36805898ad4071f2662bea
 https://conda.anaconda.org/conda-forge/win-64/m2-gdbm-1.11-4.tar.bz2#efd6dd93f052c7a881c8f9c555d3e86d
 https://conda.anaconda.org/conda-forge/win-64/m2-less-481-2.tar.bz2#9e606cac3bbeaece107359e33ec8de9c

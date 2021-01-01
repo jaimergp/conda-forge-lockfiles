@@ -16,7 +16,7 @@ https://conda.anaconda.org/conda-forge/linux-aarch64/libev-4.33-h516909a_1.tar.b
 https://conda.anaconda.org/conda-forge/linux-aarch64/libffi-3.3-h884eca8_2.tar.bz2#b2b11b4c4b858cf892bfb91bcc4f7dec
 https://conda.anaconda.org/conda-forge/linux-aarch64/libiconv-1.16-h6dd45c4_0.tar.bz2#ddf5f3b177dde259a682f1820110b238
 https://conda.anaconda.org/conda-forge/linux-aarch64/liblief-0.10.1-he1b5a44_2.tar.bz2#b37affae2f99cad24f11261481bc30ba
-https://conda.anaconda.org/conda-forge/linux-aarch64/lz4-c-1.9.2-he1b5a44_3.tar.bz2#2f950a46172577d966f500222f95b87d
+https://conda.anaconda.org/conda-forge/linux-aarch64/lz4-c-1.9.3-h01db608_0.tar.bz2#00f7669ad6ca0beedcde4c8eb01f5d63
 https://conda.anaconda.org/conda-forge/linux-aarch64/lzo-2.10-h516909a_1000.tar.bz2#ef5661339990c399c68c71cfb341e6d7
 https://conda.anaconda.org/conda-forge/linux-aarch64/ncurses-6.2-h7fd3ca4_4.tar.bz2#e63890523b6708f64d078f96d3a46375
 https://conda.anaconda.org/conda-forge/linux-aarch64/oniguruma-6.9.3-hb9de7d4_0.tar.bz2#6e6092f5cbb12cea0f27182edf02f05d
@@ -36,9 +36,9 @@ https://conda.anaconda.org/conda-forge/linux-aarch64/libssh2-1.9.0-hab1572f_5.ta
 https://conda.anaconda.org/conda-forge/linux-aarch64/libxml2-2.9.10-hd674cf7_3.tar.bz2#71e1f9fbd892451bac839981021953e6
 https://conda.anaconda.org/conda-forge/linux-aarch64/readline-8.0-h607064a_2.tar.bz2#140aafba4896d77ef3dce3f499255a60
 https://conda.anaconda.org/conda-forge/linux-aarch64/tk-8.6.10-ha99a2a3_1.tar.bz2#f1e3655b5a26837407ca3fb97929376e
-https://conda.anaconda.org/conda-forge/linux-aarch64/zstd-1.4.8-hbbd22bb_0.tar.bz2#063bc55b063ebaf3de87f4428ef14931
+https://conda.anaconda.org/conda-forge/linux-aarch64/zstd-1.4.8-h41fb7a4_1.tar.bz2#379c40c1f02b85d7491e10e0d4ed2be1
 https://conda.anaconda.org/conda-forge/linux-aarch64/krb5-1.17.2-he08ec14_0.tar.bz2#ba26446058113b097213ca43ee09bc48
-https://conda.anaconda.org/conda-forge/linux-aarch64/libarchive-3.5.1-h50ebc09_0.tar.bz2#c55d750b57be15a0950825fb6ddd6c1e
+https://conda.anaconda.org/conda-forge/linux-aarch64/libarchive-3.5.1-h1023f6c_1.tar.bz2#291f0ba7f4aca5a02f537708d1b0e1cf
 https://conda.anaconda.org/conda-forge/linux-aarch64/sqlite-3.34.0-h43e6a2a_0.tar.bz2#327558c7faed1bd6ae02d6965457d0f8
 https://conda.anaconda.org/conda-forge/linux-aarch64/libcurl-7.71.1-hcdd3856_8.tar.bz2#02c528cf3999da407527963e8305b55a
 https://conda.anaconda.org/conda-forge/linux-aarch64/python-3.7.9-h3bd6a85_0_cpython.tar.bz2#33db47a38c7fb0fae853d7842eb065fe
