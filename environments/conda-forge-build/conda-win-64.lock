@@ -72,7 +72,7 @@ https://conda.anaconda.org/conda-forge/win-64/certifi-2020.12.5-py37h03978a9_1.t
 https://conda.anaconda.org/conda-forge/win-64/cffi-1.14.4-py37hd8e9650_1.tar.bz2#0e1f891281599a450244f7e02966e54f
 https://conda.anaconda.org/conda-forge/win-64/chardet-4.0.0-py37h03978a9_1.tar.bz2#566dbd28c78bb886e678e61893d249ba
 https://conda.anaconda.org/conda-forge/win-64/conda-package-handling-1.7.2-py37h6dbccfb_0.tar.bz2#34ec2ca194aacdae7b8b43682a4e898d
-https://conda.anaconda.org/conda-forge/win-64/importlib-metadata-3.3.0-py37h03978a9_2.tar.bz2#2976ae59c56ba590c8144ddeaae213ab
+https://conda.anaconda.org/conda-forge/win-64/importlib-metadata-3.3.0-py37h03978a9_3.tar.bz2#f71b41f78d086cfc7ce8c83dc9208401
 https://conda.anaconda.org/conda-forge/win-64/m2-coreutils-8.25-102.tar.bz2#287653b2583bd11530a729b41623b0fe
 https://conda.anaconda.org/conda-forge/win-64/m2-findutils-4.6.0-2.tar.bz2#74fd1928033451250028a234e8ed81b5
 https://conda.anaconda.org/conda-forge/win-64/m2-gzip-1.7-2.tar.bz2#892aa2cfbbb3820a609751ee74806c60
@@ -95,7 +95,7 @@ https://conda.anaconda.org/conda-forge/win-64/win_inet_pton-1.1.0-py37hc8dfbb8_1
 https://conda.anaconda.org/conda-forge/win-64/wincertstore-0.2-py37h03978a9_1006.tar.bz2#d05992e21bc7622dd0dce0b087452250
 https://conda.anaconda.org/conda-forge/win-64/brotlipy-0.7.0-py37h0013d47_1001.tar.bz2#739b506e180ff8f16ba22f2704fca7c3
 https://conda.anaconda.org/conda-forge/win-64/cryptography-3.3.1-py37hd8e9650_0.tar.bz2#11cefe7f74ab80a2adef2949ebdca4ef
-https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-3.3.0-hd8ed1ab_2.tar.bz2#936c79b1b03cec81f74fb88f4fb4caa8
+https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-3.3.0-hd8ed1ab_3.tar.bz2#68e5373bb2bf7e562b8c88f9cb2400c5
 https://conda.anaconda.org/conda-forge/win-64/jupyter_core-4.7.0-py37h03978a9_0.tar.bz2#307627860dbe6ee5654091e9180cb604
 https://conda.anaconda.org/conda-forge/win-64/m2-heimdal-libs-1.5.3-10.tar.bz2#a516e0afbc84d5ce0a3b5ed147f3a301
 https://conda.anaconda.org/conda-forge/win-64/m2-info-6.0-2.tar.bz2#e6c610433b411e6fc8b320c192ea84c4
