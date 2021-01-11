@@ -94,7 +94,7 @@ https://conda.anaconda.org/conda-forge/noarch/traitlets-5.0.5-py_0.tar.bz2#99618
 https://conda.anaconda.org/conda-forge/win-64/win_inet_pton-1.1.0-py37h03978a9_2.tar.bz2#3be8e856f5b7726960041ff2fbeee4dd
 https://conda.anaconda.org/conda-forge/win-64/wincertstore-0.2-py37h03978a9_1006.tar.bz2#d05992e21bc7622dd0dce0b087452250
 https://conda.anaconda.org/conda-forge/win-64/brotlipy-0.7.0-py37h0013d47_1001.tar.bz2#739b506e180ff8f16ba22f2704fca7c3
-https://conda.anaconda.org/conda-forge/win-64/cryptography-3.3.1-py37hd8e9650_0.tar.bz2#11cefe7f74ab80a2adef2949ebdca4ef
+https://conda.anaconda.org/conda-forge/win-64/cryptography-3.3.1-py37hd8e9650_1.tar.bz2#ea5f85f95793817eec47407182f20558
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-3.3.0-hd8ed1ab_3.tar.bz2#68e5373bb2bf7e562b8c88f9cb2400c5
 https://conda.anaconda.org/conda-forge/win-64/jupyter_core-4.7.0-py37h03978a9_0.tar.bz2#307627860dbe6ee5654091e9180cb604
 https://conda.anaconda.org/conda-forge/win-64/m2-heimdal-libs-1.5.3-10.tar.bz2#a516e0afbc84d5ce0a3b5ed147f3a301
@@ -145,7 +145,7 @@ https://conda.anaconda.org/conda-forge/win-64/m2-ca-certificates-20150426-103.ta
 https://conda.anaconda.org/conda-forge/win-64/m2-perl-http-cookies-6.01-3.tar.bz2#e97e9479b97cdec0705d443ceb23a750
 https://conda.anaconda.org/conda-forge/win-64/m2-perl-http-daemon-6.01-3.tar.bz2#8d221939fbf94560565f3c1f88efaed6
 https://conda.anaconda.org/conda-forge/win-64/m2-perl-http-negotiate-6.01-3.tar.bz2#8fdd079743997382eedac946bc2436dd
-https://conda.anaconda.org/conda-forge/win-64/conda-build-3.21.0-py37h03978a9_0.tar.bz2#ec4561a5df841efb1b5950cc76f81f0a
+https://conda.anaconda.org/conda-forge/win-64/conda-build-3.20.5-py37hf50a25e_0.tar.bz2#ddf584ff10fdc24df1e56d13f11ad43a
 https://conda.anaconda.org/conda-forge/win-64/m2-libssh2-1.6.0-2.tar.bz2#b2e1d3e33d3c0db923b44f09ffcc0e04
 https://conda.anaconda.org/conda-forge/win-64/m2-perl-libwww-6.13-2.tar.bz2#a17030d89fff9f9286fbd6d94b1a5522
 https://conda.anaconda.org/conda-forge/win-64/m2-libcurl-7.47.1-3.tar.bz2#737be653fed34bb2b913a2d8b4a7366d

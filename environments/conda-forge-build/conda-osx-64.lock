@@ -73,7 +73,7 @@ https://conda.anaconda.org/conda-forge/osx-64/pyyaml-5.3.1-py37hf967b71_2.tar.bz
 https://conda.anaconda.org/conda-forge/osx-64/ruamel_yaml-0.15.80-py37h395d20d_1003.tar.bz2#842b3894a4ff9ea812c5ee89a07e38de
 https://conda.anaconda.org/conda-forge/noarch/traitlets-5.0.5-py_0.tar.bz2#99618ee9ab1323e40f231acdab92fe60
 https://conda.anaconda.org/conda-forge/osx-64/brotlipy-0.7.0-py37h395d20d_1001.tar.bz2#1407a480e4f9e14dc56546dc9263bdd2
-https://conda.anaconda.org/conda-forge/osx-64/cryptography-3.3.1-py37haf76d9e_0.tar.bz2#9ed24db55b53c6931457804005b14032
+https://conda.anaconda.org/conda-forge/osx-64/cryptography-3.3.1-py37haf76d9e_1.tar.bz2#225859b762c10c1f3f5425151773ccf1
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-3.3.0-hd8ed1ab_3.tar.bz2#68e5373bb2bf7e562b8c88f9cb2400c5
 https://conda.anaconda.org/conda-forge/osx-64/jupyter_core-4.7.0-py37hf985489_0.tar.bz2#9f60c9d0cf30fb24bcb3cf5326d1d0f2
 https://conda.anaconda.org/conda-forge/osx-64/setuptools-49.6.0-py37hf985489_3.tar.bz2#5030dea82548d67ec8b80882e8e4a099
@@ -88,5 +88,5 @@ https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.2-pyhd8ed1ab_0.tar.bz
 https://conda.anaconda.org/conda-forge/noarch/requests-2.25.1-pyhd3deb0d_0.tar.bz2#ae687aba31a1c400192a86a2e993ffdc
 https://conda.anaconda.org/conda-forge/noarch/anaconda-client-1.7.2-py_0.tar.bz2#1ada0ee7841ef357baf8cb8ae71fac9b
 https://conda.anaconda.org/conda-forge/osx-64/conda-4.9.2-py37hf985489_0.tar.bz2#8ccd5a89558c8f7ffb5f077c79da3a36
-https://conda.anaconda.org/conda-forge/osx-64/conda-build-3.21.0-py37hf985489_0.tar.bz2#c5262884bacb5b76a3937b54f8ffa23f
+https://conda.anaconda.org/conda-forge/osx-64/conda-build-3.20.5-py37h2987424_0.tar.bz2#8f23ac735215a6fba74bce4ce0a42db8
 https://conda.anaconda.org/conda-forge/osx-64/conda-forge-ci-setup-3.6.3-py37h5be20f2_0.tar.bz2#c63697378a30ed0f45335051c60cd9c0
