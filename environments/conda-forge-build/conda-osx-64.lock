@@ -60,7 +60,7 @@ https://conda.anaconda.org/conda-forge/osx-64/cffi-1.14.4-py37hc5b2277_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/chardet-4.0.0-py37hf985489_1.tar.bz2#212f48113f4aa416eb58404fbece967b
 https://conda.anaconda.org/conda-forge/osx-64/conda-package-handling-1.7.2-py37h395d20d_0.tar.bz2#b227ace74379574f65804db465891b71
 https://conda.anaconda.org/conda-forge/osx-64/git-2.30.0-pl5320hd05cdc2_0.tar.bz2#9d0c3f6a37b742d0dbc7535847d30b13
-https://conda.anaconda.org/conda-forge/osx-64/importlib-metadata-3.3.0-py37hf985489_3.tar.bz2#97c3c99ad4a16929ff86e232864c7a0b
+https://conda.anaconda.org/conda-forge/osx-64/importlib-metadata-3.4.0-py37hf985489_0.tar.bz2#cd3d5e409614339e065a58d649c6186c
 https://conda.anaconda.org/conda-forge/osx-64/markupsafe-1.1.1-py37hf967b71_3.tar.bz2#012d1704c4914ea54b2166c6c8123d2e
 https://conda.anaconda.org/conda-forge/osx-64/psutil-5.8.0-py37hf967b71_1.tar.bz2#a5cb28290dc234deaa40fb2805411148
 https://conda.anaconda.org/conda-forge/osx-64/py-lief-0.10.1-py37h08f6e3d_2.tar.bz2#acea81f93a51511d87552b099f84cab4
@@ -74,7 +74,7 @@ https://conda.anaconda.org/conda-forge/osx-64/ruamel_yaml-0.15.80-py37h395d20d_1
 https://conda.anaconda.org/conda-forge/noarch/traitlets-5.0.5-py_0.tar.bz2#99618ee9ab1323e40f231acdab92fe60
 https://conda.anaconda.org/conda-forge/osx-64/brotlipy-0.7.0-py37h395d20d_1001.tar.bz2#1407a480e4f9e14dc56546dc9263bdd2
 https://conda.anaconda.org/conda-forge/osx-64/cryptography-3.3.1-py37haf76d9e_1.tar.bz2#225859b762c10c1f3f5425151773ccf1
-https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-3.3.0-hd8ed1ab_3.tar.bz2#68e5373bb2bf7e562b8c88f9cb2400c5
+https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-3.4.0-hd8ed1ab_0.tar.bz2#6d962cade0658bb1040a3e994add14e0
 https://conda.anaconda.org/conda-forge/osx-64/jupyter_core-4.7.0-py37hf985489_0.tar.bz2#9f60c9d0cf30fb24bcb3cf5326d1d0f2
 https://conda.anaconda.org/conda-forge/osx-64/setuptools-49.6.0-py37hf985489_3.tar.bz2#5030dea82548d67ec8b80882e8e4a099
 https://conda.anaconda.org/conda-forge/noarch/shyaml-0.6.2-pyhd3deb0d_0.tar.bz2#733d0708892ebef428fa1a293e471351
